@@ -10,4 +10,3 @@ val count: int tree -> int -> int
 val inorder: int tree -> int list
 val depth: int tree -> int
 val max: int tree -> int
-
