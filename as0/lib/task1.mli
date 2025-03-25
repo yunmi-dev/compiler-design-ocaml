@@ -17,5 +17,3 @@ val count: 'a list -> 'a -> int
 val reverse: 'a list -> 'a list
 val find: 'a list -> 'a -> int
 val findr: 'a list -> 'a -> int
-
-
